@@ -1,0 +1,30 @@
+name: Bonta Sergiu Vlad
+description: Blog of Bonta Sergiu Vlad
+url: "http://bontavlad.github.com"
+
+# Author info
+author_name: Bonta Sergiu Vlad
+author_image_path: http://i.imgur.com/8l6BRlt.jpg
+author_bio: |
+    Python developer
+
+# External services
+github_url: "https://github.com/bontavlad"
+linkedin_url: "https://ro.linkedin.com/pub/bonta-vlad/86/2b5/343"
+feed_url: ""
+email: "bonta.vlad@gmail.com"
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  smart_quotes: apos,apos,quot,quot
+  parse_block_html: true
+
+# Site settings
+permalink: /blog/:year/:month/:day/:title/
+relative_permalinks: false
+highlighter: pygments
+
+# important since the site is compiled
+# on Github's servers
+timezone: Asia/Riyadh
