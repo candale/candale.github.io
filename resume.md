@@ -32,11 +32,12 @@ permalink: /resume/
 
 <br/>
 
-### Web Frameworks, Libraries
+### Web Frameworks, Libraries etc
 -----------------
 - Django, Django Rest Framework
 - Flask, SQLAlchemy, Jinja2
 - Celery, Scrapy
+- Swagger
 
 <br/>
 
