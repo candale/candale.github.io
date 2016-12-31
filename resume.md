@@ -60,7 +60,7 @@ permalink: /resume/
 
 * ### Sjerlok
 
->> Sjerlok is the name of our cloud platform that supports the registration, web-harvesting, profiling, search & match, confiscation and recovery services of stolen objects. Our goal is to unburden insurance companies of theft and fraud-related claims.
+> Sjerlok is a cloud platform that supports the registration, web-harvesting, profiling, search & match, confiscation and recovery services of stolen objects. The goal is to unburden insurance companies of theft and fraud-related claims.
 >
 > In charge of designing, implementing and maintaining a Django based application and it's surrounding infrastructure, creating and monitoring of high data traffic scrapers use Scrapy, managing and designing complex data models and components interactions.
 <br>
