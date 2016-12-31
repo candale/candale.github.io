@@ -54,7 +54,7 @@ permalink: /resume/
 # Experience
 
 ### <a href="http://brightmaven.com/" target="_blank">Brightmaven</a>
-*September 2015 - Present*
+*September 2016 - Present*
 
 **Projects**
 
