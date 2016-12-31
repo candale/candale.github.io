@@ -53,7 +53,7 @@ permalink: /resume/
 
 # Experience
 
-### <a href="http://http://brightmaven.com/">Brightmaven</a>
+### <a href="http://brightmaven.com/">Brightmaven</a>
 *September 2015 - Present*
 
 **Projects**
@@ -66,7 +66,7 @@ permalink: /resume/
 <br>
 > **Worked with: Django, Scrapy, PostgreSQL, ELK, Cassandra, Flask**
 
-### Spyhce
+### <a href="http://spyhce.com/">Spyhce</a>
 *November 2014 - Present*
 
 At Spyhce I am part of a team of developers and designers that specializes in
