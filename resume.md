@@ -11,7 +11,7 @@ permalink: /resume/
 ### Tools
 --------
 
-- [Sublime Text](https://github.com/candale/work_env_conf), Tmux, Zsh, Unix shell environments
+- <a href="https://github.com/candale/work_env_conf" target="_blank">Sublime Text</a>, Tmux, Zsh, Unix shell environments
 - Git, Bitbucket, Github
 - GNU/Linux, Windows
 
@@ -53,7 +53,7 @@ permalink: /resume/
 
 # Experience
 
-### <a href="http://brightmaven.com/">Brightmaven</a>
+### <a href="http://brightmaven.com/" target="_blank">Brightmaven</a>
 *September 2015 - Present*
 
 **Projects**
@@ -66,7 +66,7 @@ permalink: /resume/
 <br>
 > **Worked with: Django, Scrapy, PostgreSQL, ELK, Cassandra, Flask**
 
-### <a href="http://spyhce.com/">Spyhce</a>
+### <a href="http://spyhce.com/" target="_blank">Spyhce</a>
 *November 2014 - Present*
 
 At Spyhce I am part of a team of developers and designers that specializes in
@@ -75,7 +75,7 @@ My role is that of a back-end developer working in Django and/or Flask while als
 
 **Projects**
 
-* ### <a href="http://www.keolis.com/en">Keolis</a>
+* ### <a href="http://www.keolis.com/en" target="_blank">Keolis</a>
 
 > Keolis is a leading provider of passenger transportation services throughout the U.S. and Canada, carrying millions of people via train, bus and taxi, each year through public contracts held coast to coast. Keolis transportation services include fleet management and maintenance, logistics and routing services as well.
 > 
@@ -83,7 +83,7 @@ My role is that of a back-end developer working in Django and/or Flask while als
 <br/>
 > **Worked with: Flask, SQLAlchemy, PostgreSQL, General Transit Feed Specification (GTFS)**
 
-* ### <a href="https://www.monarqrc.com/">MonarqRC</a>
+* ### <a href="https://www.monarqrc.com/" target="_blank">MonarqRC</a>
 
 > Food service web application that allows meals scheduling for residents of
 > homes with the purpose of automating dining operations and increasing efficiency
@@ -115,7 +115,7 @@ My role is that of a back-end developer working in Django and/or Flask while als
 <br/>
 > **Hardware: RaspberryPi, Third Party voltmeters, Programmable relays, IR programmable modules, client specific hardware.**
 
-* ### <a href="http://www.keolis.com/en.html">Keolis<a>
+* ### <a href="http://www.keolis.com/en.html" target="_blank">Keolis<a>
 
 > Public transport web platform for managing and maintaining the public commuting
 > infrastructure in multiple cities throughout the world.
